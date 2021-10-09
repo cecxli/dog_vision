@@ -1,1 +1,2 @@
-# dog_vision
+# Dog Breed Identification
+Determine the breed of a dog in an image
